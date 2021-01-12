@@ -1,3 +1,3 @@
 # CV
 
-https://github.com/mattymt/CV.git
+https://mattymt.github.io/CV/
